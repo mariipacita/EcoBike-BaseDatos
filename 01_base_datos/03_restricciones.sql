@@ -313,3 +313,4 @@ MariaDB [ecobike]> ALTER TABLE mantenimientos
 Query OK, 0 rows affected (0.033 sec)
 Records: 0  Duplicates: 0  Warnings: 0
 
+MariaDB [ecobike]> tee C:/Users/marii/OneDrive/Attachments/Documentos/AdminBaseDatos/EcoBike-BaseDatos/02_datos/datos_prueba.sql
