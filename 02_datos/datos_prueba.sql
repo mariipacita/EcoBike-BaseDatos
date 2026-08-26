@@ -290,3 +290,4 @@ MariaDB [ecobike]> SELECT estado, COUNT(*) AS cantidad
 +------------+----------+
 3 rows in set (0.004 sec)
 
+MariaDB [ecobike]> notee;
